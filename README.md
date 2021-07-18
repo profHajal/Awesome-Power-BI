@@ -70,6 +70,7 @@ It is so easy to start with Power BI, but hard to master it.
 * Will Thompson [Analyze & Visualize Data with Power BI](https://lnkd.in/dVrZKv8)
 
 ### Special Videos
+* [Charticulator: Now a Power BI Custom Visual! (with Daniel Marsh-Patrick)](https://www.youtube.com/watch?v=1tp6ZqWjFso) - Havens Consulting
 * [Power BI for BI pros and Data Engineers (MSBuild)](https://mybuild.microsoft.com/sessions/a8ee3d06-07a7-426c-8eae-6f16a7ad4cb7?source=sessions) - Priya Sathy (May 2021)
 * [Common mistakes in big data models](https://www.youtube.com/watch?v=L3uT-cn_eO8) - SQLBI (April 2021)
 * [Understanding memory used by Power BI](https://www.youtube.com/watch?v=kpAZD7AeRQw) - SQLBI (February 2021)
@@ -140,11 +141,13 @@ It is so easy to start with Power BI, but hard to master it.
 * [Power BI Introduction](https://www.red-gate.com/simple-talk/sql/bi/power-bi-part-1-introduction/) - Robert Sheldon (redgate Hub)
 * [Power BI Premium Demo](http://www.powerbiclickthrough.com/demos/powerbipremium)
 * [Power BI webinars](https://docs.microsoft.com/en-us/power-bi/fundamentals/webinars)
+* [Virtual workshops and training](https://www.microsoft.com/en-us/store/workshops-training-and-events/#keyword=Power%20BI) - Our interactive virtual workshops and training sessions are taught live by Microsoft associates.
 * [Power BI Events Catalog](https://events.microsoft.com/?timeperiod=next90Days&product=Power%20BI&isSharedInLocalViewMode=false&_lrsc=b985f9fa-d2c7-49da-ad9f-9748f4b6540c&startTime=&endTime=&category=Online) - events.microsoft.com
 
 -----
 ## Power BI Desktop Feature Summary
 ### 2021
+* [Power BI Desktop June 2021 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-june-2021-feature-summary/)
 * [Power BI Desktop May 2021 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-may-2021-feature-summary/)
 * [Power BI Desktop April 2021 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-april-2021-feature-summary/)
 * [Power BI Desktop March 2021 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-march-2021-feature-summary/)

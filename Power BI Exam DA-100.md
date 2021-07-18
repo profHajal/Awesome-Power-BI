@@ -50,12 +50,15 @@ The Data Analyst should have a fundamental understanding of data repositories an
 
 ##### Clean, transform, and load the data
 * Resolve inconsistencies, unexpected or null values, and data quality issues
+  * [Profile data in Power BI](https://docs.microsoft.com/en-us/learn/modules/clean-data-power-bi/6-profile-data) 
 * Apply user-friendly value replacements
+  * [Simplify the data structure](https://docs.microsoft.com/en-us/learn/modules/clean-data-power-bi/3-data-structure)
 * Identify and create appropriate keys for joins
   * [Seven Types of Table Joins](https://www.powerbi-pro.com/en/power-bi-seven-types-of-table-joins/) - powerbi-pro.com
 * Evaluate and transform column data types
 * Apply data shape transformations to table structures
 * Combine queries
+  * [Combine queries](https://docs.microsoft.com/en-us/power-bi/connect-data/desktop-shape-and-combine-data#combine-queries) - Tutorial: Shape and combine data in Power BI Desktop
 * Apply user-friendly naming conventions to columns and queries
 * Leverage Advanced Editor to modify Power Query M code
 * Configure data loading
@@ -90,6 +93,7 @@ The Data Analyst should have a fundamental understanding of data repositories an
   * [Create calculated columns in Power BI Desktop](https://docs.microsoft.com/en-us/power-bi/transform-model/desktop-calculated-columns) 
 * Implement row-level security roles
   * [Row-level security (RLS) with Power BI](https://docs.microsoft.com/en-us/power-bi/admin/service-admin-rls) 
+* Implement object-level security
 * Set up the Q&A feature
 
 #### Create measures by using DAX
@@ -113,6 +117,7 @@ The Data Analyst should have a fundamental understanding of data repositories an
 * Create semi-additive measures
   * [Semi-Additive Measures in DAX](https://www.sqlbi.com/articles/semi-additive-measures-in-dax/) - sqlbi.com
 
+
 #### Optimize model performance
 * Remove unnecessary rows and columns
   * [Choose or remove columns](https://docs.microsoft.com/en-us/power-query/choose-remove-columns?ref=najielkotob)
@@ -123,6 +128,8 @@ The Data Analyst should have a fundamental understanding of data repositories an
 * Improve cardinality levels through summarization
 * Create and manage aggregations
   * [Grouping or summarizing rows](https://docs.microsoft.com/en-us/power-query/group-by?ref=najielkotob) 
+* Use Query Diagnostics
+
 
 ### Visualize the data (20-25%)
 #### Create Report
@@ -177,12 +184,20 @@ The Data Analyst should have a fundamental understanding of data repositories an
 * Apply conditional formatting
 * Apply slicers and filters
 * Perform top N analysis
+  * [How to Create Power BI TOP N Report (Variable TOP N Filter)](https://www.youtube.com/watch?v=wKfPS1yZfE0) - Avi Singh
 * Explore statistical summary
+  * [Explore statistical summary](https://docs.microsoft.com/en-us/learn/modules/perform-analytics-power-bi/2-statistical-summary) 
+  * [Create a Profiling Report in Power BI](https://radacad.com/create-a-profiling-report-in-power-bi-give-the-end-user-information-about-the-data) - radacad.com
 * Use the Q&A visual
+  * [Create a Q&A visual in Power BI](https://docs.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-q-and-a) 
 * Add a Quick Insights result to a report
+  * [Generate data insights on your dataset automatically with Power BI](https://docs.microsoft.com/en-us/power-bi/create-reports/service-insights) 
 * Create reference lines by using Analytics pane
+  * [Use the Analytics pane in Power BI Desktop](https://docs.microsoft.com/en-us/power-bi/transform-model/desktop-analytics-pane) 
 * Use the Play Axis feature of a visualization
+  * [Scatter charts, bubble charts, and dot plot charts in Power BI](https://docs.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-scatter) 
 * Personalize visuals
+  * [Let users personalize visuals in a report](https://docs.microsoft.com/en-us/power-bi/create-reports/power-bi-personalize-visuals) 
 
 #### Perform advanced analysis
 * Identify outliers
@@ -203,10 +218,12 @@ The Data Analyst should have a fundamental understanding of data repositories an
 * Configure a dataset scheduled refresh
   * [Data refresh in Power BI](https://docs.microsoft.com/en-us/power-bi/connect-data/refresh-data) 
 * Configure row-level security group membership
-* Providing access to datasets
+  * [Row-level security (RLS) with Power BI](https://docs.microsoft.com/en-us/power-bi/admin/service-admin-rls) 
+* Provide access to datasets
 * Configure incremental refresh settings
   * [Incremental refresh for datasets](https://docs.microsoft.com/en-us/power-bi/connect-data/incremental-refresh-overview) 
 * Promote or certify Power BI datasets
+  * [Endorse your content](https://docs.microsoft.com/en-us/power-bi/collaborate-share/service-endorse-content) 
 * Identify downstream dataset dependencies
   * [Identifying shared datasets](https://docs.microsoft.com/en-us/power-bi/collaborate-share/service-dataset-impact-analysis#identifying-shared-datasets) 
 * Configure large dataset format
@@ -220,6 +237,7 @@ The Data Analyst should have a fundamental understanding of data repositories an
   * [Roles in the new workspaces](https://docs.microsoft.com/en-us/power-bi/collaborate-share/service-new-workspaces#roles-in-the-new-workspaces) 
   * [Organize work in the new workspaces in Power BI](https://docs.microsoft.com/en-us/power-bi/collaborate-share/service-new-workspaces)
 * Configure and update a workspace app
+  * [Publish an app in Power BI](https://docs.microsoft.com/en-us/power-bi/collaborate-share/service-create-distribute-apps) 
 * Publish, import, or update assets in a workspace
 * Apply sensitivity labels to workspace content
   * [How to apply sensitivity labels in Power BI](https://docs.microsoft.com/en-us/power-bi/admin/service-security-apply-data-sensitivity-labels) 
